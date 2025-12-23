@@ -1,0 +1,7 @@
+{
+  "name": "TechnoKing 90s DJ Simulator",
+  "description": "A retro 90s-style DJ mixing game. Master the beatmatch, tweak the EQs, and keep the rave alive to become the King of the Dancefloor!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
